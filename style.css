@@ -4,7 +4,7 @@ body{
     color: blue;
 }
 
-/* selecetor para id */
+/* selector para id */
 /* #nombre_de_id */
 #article{
     color: tomato;
@@ -35,4 +35,8 @@ div h3{
 *{
     font-size: 20px;
     color: deeppink;
+}
+
+.burguer{
+    color: darkcyan;
 }
