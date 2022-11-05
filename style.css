@@ -1,0 +1,38 @@
+/* selector para tag */
+/* nombre_del_tag */
+body{
+    color: blue;
+}
+
+/* selecetor para id */
+/* #nombre_de_id */
+#article{
+    color: tomato;
+}
+
+/* selector para class */
+/* .nombre_de_class */
+.parrafo{
+    color:blueviolet;
+}
+
+p.text{
+    color: darkgreen;
+}
+
+div h2{
+    color: darkturquoise;
+}
+
+/* para agg el h3 del div, puede agg div 3 tal cual o insertar una coma(,) seguido del div h2 de arriba */
+
+div h3{
+    color: darkorange;
+}
+
+/* selector universal */
+
+*{
+    font-size: 20px;
+    color: deeppink;
+}
